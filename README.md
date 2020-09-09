@@ -4,7 +4,7 @@ Bitcoin Price Prediction
 ## Problem Statement
 
 We sought to test the possibility of forecasting the prices of a financial asset for the following reasons:
-1. As a demonstration to a full time day trader and possible client of the strength machine learning has in boosting trading profits
+1. As a demonstration, to a full time day trader and possible client, of the strength machine learning has in boosting trading profits
 2. To test the feasibility of performing short term price predictions on volatile markets for determining buying, holding or selling positions.
 
 ## Technologies Used
